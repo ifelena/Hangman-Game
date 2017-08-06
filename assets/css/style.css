@@ -1,0 +1,29 @@
+html, body {
+	height: 100%;
+}
+
+#header {
+	text-align: center;
+	font-family: 'Didact Gothic', Grupp Font, Verdana, Arial;
+	float: center;
+	display: block;
+
+}
+
+.game {
+	display: block;
+	float: center;
+	
+}
+
+.instructions {
+	display: block;
+	float: center;
+	max-width: 400px;
+	padding-right: 200px;
+	padding-left: 200px;
+	padding-top: 50px;
+	border-color: black;
+	border-style: solid;
+
+}
